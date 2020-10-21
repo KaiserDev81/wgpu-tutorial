@@ -1,7 +1,10 @@
+//## Este es un ejemplo del minimo contenido viable para obtener una pantalla en multiples plataformas
+//## En pantalla se muestra cualquier cosa que haya quedado en el buffer de memoria
+
 use winit::{
     event::*,
     event_loop::{EventLoop, ControlFlow},
-    window::{Window, WindowBuilder},
+    window::{WindowBuilder},
 };
 
 pub fn main_1_1() {

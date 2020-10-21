@@ -12,6 +12,9 @@ fn main() {
 
     match tutorial_id.as_str() {
         "1_1" => main_1_1(),
+        "1_2" => main_1_2(),
+        "1_2_1" => main_1_2_1(),
+        "1_3" => main_1_3(),
         _     => println!("Unknown tutorial id")
     }
 }
