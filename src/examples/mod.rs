@@ -6,3 +6,5 @@ mod _1_2_1_challenge;
 pub use self::_1_2_1_challenge::*;
 mod _1_3_pipeline;
 pub use self::_1_3_pipeline::*;
+mod _1_3_1_challenge;
+pub use self::_1_3_1_challenge::*;
